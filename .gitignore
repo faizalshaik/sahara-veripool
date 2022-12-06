@@ -1,0 +1,8 @@
+build
+TAGS
+rpi
+node_modules
+package-lock.json
+node/package-lock.json
+build_ngspice
+obj_dir

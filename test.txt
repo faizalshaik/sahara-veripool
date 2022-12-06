@@ -1,0 +1,3 @@
+mocha --timeout 100000 ./__test__/veripool.test.js
+
+sudo apt install liblog4cplus-dev
